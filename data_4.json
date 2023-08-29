@@ -1,0 +1,737 @@
+{
+    "primary_data": {
+        "CouncilFileHeader": "Council File: 20-0631",
+        "Title": "22241-22255 Mulholland Drive / South Valley Area Planning Commission / Zoning Administrator Determination / Vesting Tentative Tract / Charter Section 245",
+        "Date Received / Introduced": "05/20/2020",
+        "Last Changed Date": "06/25/2020",
+        "Expiration Date": "06/12/2022",
+        "Reference Numbers": "Case: ZA-2007-1255-ZAD-1AEnvironmental: ENV-2005-2301-EIRRelated Case: VTT-67505-1A",
+        "Direct to Council": "Yes",
+        "Council District": "3",
+        "Mover": "BOB BLUMENFIELD",
+        "Second": "MITCH O'FARRELL"
+    },
+    "file_activities": [
+        {
+            "Date": "06/25/2020",
+            "Activity": "Council action final."
+        },
+        {
+            "Date": "06/23/2020",
+            "Activity": "Council adopted item forthwith."
+        },
+        {
+            "Date": "06/12/2020",
+            "Activity": "City Clerk scheduled item for Council on June 23, 2020."
+        },
+        {
+            "Date": "06/11/2020",
+            "Activity": "Planning and Land Use Management Committee waived consideration of item ."
+        },
+        {
+            "Date": "06/05/2020",
+            "Activity": "Council action final."
+        },
+        {
+            "Date": "06/03/2020",
+            "Activity": "Council adopted item forthwith; referred to Planning and Land Use Management Committee."
+        },
+        {
+            "Date": "05/29/2020",
+            "Activity": "City Clerk scheduled item for Council on June 3, 2020."
+        },
+        {
+            "Date": "05/20/2020",
+            "Activity": "Motion document(s) referred to Council."
+        }
+    ],
+    "documents": [
+        {
+            "Title": "Attachment to Communication dated 10/28/2022 - DCP Clarification Letter",
+            "DocDate": "10/28/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_10-28-2022.pdf"
+        },
+        {
+            "Title": "Communication from Department of City Planning - Supplemental Transmittal",
+            "DocDate": "10/28/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_10-28-2022.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 10-24-22 -  Amended Findings",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_4_10-24-22.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 10-24-22 - Letter of Determination",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_10-21-22.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 10-24-22 - Mailing List",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_6_10-24-22.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 10-24-22 - Modified Conditions of Approval",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_5_10-24-22.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 10-24-22 - Modified Mitigation Monitoring Program",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_3_10-24-22.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 10-24-22 - Modified Retaining Wall Plan",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_10-14-22.pdf"
+        },
+        {
+            "Title": "Communication from Department of City Planning - Supplemental Transmittal",
+            "DocDate": "10/24/2022",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_10-21-22.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_11-12-2020.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 - Attachment No. 1",
+            "DocDate": "11/10/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_11-10-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 - Attachment No. 2",
+            "DocDate": "11/10/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_11-10-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/10/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_M_11-10-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/08/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_11-08-2020.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 Representative",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 Representative",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_1_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_2_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_3_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/04/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_a_11-04-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/03/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-03-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/03/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_11-03-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/03/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-03-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 5",
+            "DocDate": "11/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_11-02-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_x_11-02-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-02-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_11-02-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "10/30/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_10-30-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "10/29/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_10-29-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "10/29/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_10-29-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 - Attachment No. 1",
+            "DocDate": "10/27/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_10-27-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 - Attachment No. 2",
+            "DocDate": "10/27/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_10-27-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 1 - Attachment No. 3",
+            "DocDate": "10/27/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_10-27-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "09/30/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_09-30-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "09/26/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_09-26-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "09/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_09-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "08/31/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_08-31-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "08/31/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_a_08-31-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "08/30/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_08-30-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/25/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-25-20.pdf"
+        },
+        {
+            "Title": "Council Action",
+            "DocDate": "06/25/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_CAF_06-25-2020.pdf"
+        },
+        {
+            "Title": "Motion (Blumenfield - Buscaino)",
+            "DocDate": "06/23/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_Blumenfield_6-23-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/22/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_b_06-22-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/22/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_a_06-22-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/22/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_c_06-22-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/22/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_ABR_06-22-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/22/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-22-20.pdf"
+        },
+        {
+            "Title": "Communication from Appellant No. 4 Representative",
+            "DocDate": "06/21/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_06-21-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/21/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-21-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/20/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-20-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/19/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-19-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/18/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-18-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/18/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-18-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/17/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-17-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/17/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-17-20.pdf"
+        },
+        {
+            "Title": "Proof of publication",
+            "DocDate": "06/17/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_6-17-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/16/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-16-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/16/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-16-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_b_06-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_1_06-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631-S1_pc_1_06-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_a_06-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-15-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_6-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/14/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-14-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/14/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-14-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/13/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-13-20.pdf"
+        },
+        {
+            "Title": "Communication from City Clerk - Returned Mail",
+            "DocDate": "06/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_06-12-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_d_06-12-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-12-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_c_06-12-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_b_06-12-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/12/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_a_06-12-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/11/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-11-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/11/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_1_06-11-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/11/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_4_06-11-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/11/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_3_06-11-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/11/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_2_06-11-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/10/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-10-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/09/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-09-20.pdf"
+        },
+        {
+            "Title": "Council Action",
+            "DocDate": "06/05/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_CAF_06-05-2020.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/03/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-03-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 1 filed by Save Oak Savana; C. Duque",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_06-02-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 2 filed by Mountains Recreation and Conservation Authority",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_06-02-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 3 filed by Santa Monica Mountains Conservancy",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_3_06-02-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 4 filed by K. Vercillo",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_06-02-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 5 filed by B. Rider",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_06-02-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 6 filed by P. Fletcher",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_06-02-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 7 filed by P. Yeganeh",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_06-02-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal No. 8 filed by D. Bryant",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_3_06-02-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Appeal Recommendation Report",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_4_06-02-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Email List",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_7_06-02-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 06/02/2020 - Enviromental",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_4_06-02-2020.pdf"
+        },
+        {
+            "Title": "Communication from Department of City Plannng - Supplemental Transmittal",
+            "DocDate": "06/02/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_6_06-02-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Appeal No. 1",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_05-28-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Appeal No. 2",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_05-28-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Appeal No. 3",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_05-28-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Appeal No. 4",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_3_05-28-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Appeal No. 5",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_3_05-28-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Email List",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_4_05-28-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Environmental",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_1_05-28-2020.0001.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Mailing List",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_5_05-28-2020.pdf"
+        },
+        {
+            "Title": "Attachment to Communication dated 05/28/2020 - Staff Report",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_05-28-2020.0001.pdf"
+        },
+        {
+            "Title": "Communication from Department of City Planning - Supplemental Transmittal",
+            "DocDate": "05/28/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_misc_2_05-28-2020.0001.pdf"
+        },
+        {
+            "Title": "Motion",
+            "DocDate": "05/20/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_mot_05-20-2020.pdf"
+        }
+    ],
+    "votes": [
+        {
+            "MemberName": "BOBBLUMENFIELD",
+            "CD": "3",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MIKEBONIN",
+            "CD": "11",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOEBUSCAINO",
+            "CD": "15",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "GILBERT A.CEDILLO",
+            "CD": "1",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MARQUEECEHARRIS-DAWSON",
+            "CD": "8",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOSEHUIZAR",
+            "CD": "14",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "PAULKORETZ",
+            "CD": "5",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "PAULKREKORIAN",
+            "CD": "2",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOHNLEE",
+            "CD": "12",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "NURYMARTINEZ",
+            "CD": "6",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MITCHO'FARRELL",
+            "CD": "13",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "CURREN D.PRICE",
+            "CD": "9",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MONICARODRIGUEZ",
+            "CD": "7",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "DAVIDRYU",
+            "CD": "4",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "HERBWESSON",
+            "CD": "10",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "BOBBLUMENFIELD",
+            "CD": "3",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MIKEBONIN",
+            "CD": "11",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOEBUSCAINO",
+            "CD": "15",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "GILBERT A.CEDILLO",
+            "CD": "1",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MARQUEECEHARRIS-DAWSON",
+            "CD": "8",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOSEHUIZAR",
+            "CD": "14",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "PAULKORETZ",
+            "CD": "5",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "PAULKREKORIAN",
+            "CD": "2",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOHNLEE",
+            "CD": "12",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "NURYMARTINEZ",
+            "CD": "6",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MITCHO'FARRELL",
+            "CD": "13",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "CURREN D.PRICE",
+            "CD": "9",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MONICARODRIGUEZ",
+            "CD": "7",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "DAVIDRYU",
+            "CD": "4",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "HERBWESSON",
+            "CD": "10",
+            "Vote": "YES"
+        }
+    ]
+}

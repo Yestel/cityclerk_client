@@ -1,0 +1,138 @@
+{
+    "primary_data": {
+        "CouncilFileHeader": "Council File: 14-0694",
+        "Title": "L Street / Lecouvreur Street / Zone Change Application",
+        "Date Received / Introduced": "05/27/2014",
+        "Last Changed Date": "08/01/2014",
+        "Expiration Date": "07/30/2016",
+        "Reference Numbers": "Related Council Files: 10-1094; 10-1094-S1; 10-1094-S2Assessors Parcel: 7423-026-900",
+        "Council District": "15",
+        "Mover": "JOE BUSCAINO",
+        "Second": "JOSE HUIZAR"
+    },
+    "file_activities": [
+        {
+            "Date": "08/01/2014",
+            "Activity": "Council action final."
+        },
+        {
+            "Date": "07/30/2014",
+            "Activity": "Council adopted item, subject to reconsideration, pursuant to Council Rule 51."
+        },
+        {
+            "Date": "07/07/2014",
+            "Activity": "City Clerk scheduled item for Council on July 30, 2014."
+        },
+        {
+            "Date": "07/01/2014",
+            "Activity": "Planning and Land Use Management Committee approved as amended ."
+        },
+        {
+            "Date": "06/27/2014",
+            "Activity": "Planning and Land Use Management Committee scheduled item for committee meeting on July 1, 2014."
+        },
+        {
+            "Date": "05/27/2014",
+            "Activity": "Motion referred to Planning and Land Use Management Committee."
+        }
+    ],
+    "documents": [
+        {
+            "Title": "Council Action",
+            "DocDate": "07/30/2014",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2014/14-0694_CA_07-30-14.pdf"
+        },
+        {
+            "Title": "Report from Planning and Land Use Management Committee",
+            "DocDate": "07/07/2014",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2014/14-0694_rpt_plum_7-1-14.pdf"
+        },
+        {
+            "Title": "Speaker Card(s)",
+            "DocDate": "07/01/2014",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2014/14-0694_SC_7-1-14.pdf"
+        },
+        {
+            "Title": "Motion",
+            "DocDate": "05/27/2014",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2014/14-0694_MOT_05-27-14.pdf"
+        }
+    ],
+    "votes": [
+        {
+            "MemberName": "BOBBLUMENFIELD",
+            "CD": "3",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MIKEBONIN",
+            "CD": "11",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOEBUSCAINO",
+            "CD": "15",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "GILBERT A.CEDILLO",
+            "CD": "1",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "MITCHELLENGLANDER",
+            "CD": "12",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "FELIPEFUENTES",
+            "CD": "7",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "JOSEHUIZAR",
+            "CD": "14",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "PAULKORETZ",
+            "CD": "5",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "PAULKREKORIAN",
+            "CD": "2",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "TOMLABONGE",
+            "CD": "4",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "NURYMARTINEZ",
+            "CD": "6",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "MITCHO'FARRELL",
+            "CD": "13",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "BERNARD CPARKS",
+            "CD": "8",
+            "Vote": "YES"
+        },
+        {
+            "MemberName": "CURREN D.PRICE",
+            "CD": "9",
+            "Vote": "ABSENT"
+        },
+        {
+            "MemberName": "HERBWESSON",
+            "CD": "10",
+            "Vote": "YES"
+        }
+    ]
+}

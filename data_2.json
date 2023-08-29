@@ -1,0 +1,35 @@
+{
+    "primary_data": {
+        "CouncilFileHeader": "Council File: 10-0180",
+        "Title": "4800 Block of Oak Park Avenue / Plan Amendment and Zone Change",
+        "Date Received / Introduced": "01/29/2010",
+        "Last Changed Date": "07/09/2012",
+        "Expiration Date": "02/01/2012",
+        "Council District": "5",
+        "Mover": "PAUL KORETZ",
+        "Second": "DENNIS ZINE"
+    },
+    "file_activities": [
+        {
+            "Date": "07/09/2012",
+            "Activity": "File expired per Council policy, Council file No. 05-0553."
+        },
+        {
+            "Date": "01/29/2010",
+            "Activity": "Motion referred to Planning and Land Use Management Committee."
+        }
+    ],
+    "documents": [
+        {
+            "Title": "Council Action",
+            "DocDate": "07/09/2012",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2010/10-0180_ca_7-9-2012.pdf"
+        },
+        {
+            "Title": "Motion",
+            "DocDate": "01/29/2010",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2010/10-0180_mot_1-29-10.pdf"
+        }
+    ],
+    "votes": []
+}
