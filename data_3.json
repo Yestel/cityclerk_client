@@ -58,81 +58,89 @@
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2014/14-0694_MOT_05-27-14.pdf"
         }
     ],
-    "votes": [
-        {
-            "MemberName": "BOBBLUMENFIELD",
-            "CD": "3",
-            "Vote": "YES"
+    "votes": {
+        "summary": {
+            "MeetingDate": "07/30/2014",
+            "MeetingType": "Regular",
+            "VoteAction": "Adopted",
+            "VoteGiven": "(11 - 0 - 4)"
         },
-        {
-            "MemberName": "MIKEBONIN",
-            "CD": "11",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOEBUSCAINO",
-            "CD": "15",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "GILBERT A.CEDILLO",
-            "CD": "1",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "MITCHELLENGLANDER",
-            "CD": "12",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "FELIPEFUENTES",
-            "CD": "7",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOSEHUIZAR",
-            "CD": "14",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "PAULKORETZ",
-            "CD": "5",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "PAULKREKORIAN",
-            "CD": "2",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "TOMLABONGE",
-            "CD": "4",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "NURYMARTINEZ",
-            "CD": "6",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MITCHO'FARRELL",
-            "CD": "13",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "BERNARD CPARKS",
-            "CD": "8",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "CURREN D.PRICE",
-            "CD": "9",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "HERBWESSON",
-            "CD": "10",
-            "Vote": "YES"
-        }
-    ]
+        "votes": [
+            {
+                "MemberName": "BOBBLUMENFIELD",
+                "CD": "3",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MIKEBONIN",
+                "CD": "11",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOEBUSCAINO",
+                "CD": "15",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "GILBERT A.CEDILLO",
+                "CD": "1",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "MITCHELLENGLANDER",
+                "CD": "12",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "FELIPEFUENTES",
+                "CD": "7",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOSEHUIZAR",
+                "CD": "14",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "PAULKORETZ",
+                "CD": "5",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "PAULKREKORIAN",
+                "CD": "2",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "TOMLABONGE",
+                "CD": "4",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "NURYMARTINEZ",
+                "CD": "6",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MITCHO'FARRELL",
+                "CD": "13",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "BERNARD CPARKS",
+                "CD": "8",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "CURREN D.PRICE",
+                "CD": "9",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "HERBWESSON",
+                "CD": "10",
+                "Vote": "YES"
+            }
+        ]
+    }
 }

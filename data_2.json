@@ -31,5 +31,8 @@
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2010/10-0180_mot_1-29-10.pdf"
         }
     ],
-    "votes": []
+    "votes": {
+        "summary": {},
+        "votes": []
+    }
 }

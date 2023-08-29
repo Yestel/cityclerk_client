@@ -51,8 +51,16 @@ class CityclerkClient():
         return self.documents
 
     def get_votes(self):
-        self.votes = []
+        self.votes = {
+            'summary': {},
+            'votes': []
+        }
         vote_tr = self.soup.find('div', id='CFI_VotesContent').find_all('tr')
+        if len(vote_tr) > 1:
+            self.votes['summary']['MeetingDate'] = vote_tr[1].find_all('td')[1].text.strip()
+            self.votes['summary']['MeetingType'] = vote_tr[2].find_all('td')[1].text.strip()
+            self.votes['summary']['VoteAction'] = vote_tr[3].find_all('td')[1].text.strip()
+            self.votes['summary']['VoteGiven'] = vote_tr[4].find_all('td')[1].text.strip()
         for tr in vote_tr:
             vote = {}
             td = tr.find_all('td')
@@ -61,7 +69,7 @@ class CityclerkClient():
                 vote['CD'] = td[1].text
                 vote['Vote'] = td[2].text
                 if vote['MemberName'] != '':
-                    self.votes.append(vote)
+                    self.votes['votes'].append(vote)
         return self.votes
 
     def get_all(self, url):

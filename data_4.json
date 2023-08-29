@@ -154,17 +154,17 @@
         {
             "Title": "Communication(s) from Public",
             "DocDate": "11/03/2020",
-            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-03-2020.pdf"
-        },
-        {
-            "Title": "Communication(s) from Public",
-            "DocDate": "11/03/2020",
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_11-03-2020.pdf"
         },
         {
             "Title": "Communication(s) from Public",
             "DocDate": "11/03/2020",
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-03-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "11/03/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_11-03-2020.pdf"
         },
         {
             "Title": "Communication from Appellant No. 5",
@@ -334,17 +334,12 @@
         {
             "Title": "Communication(s) from Public",
             "DocDate": "06/16/2020",
-            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-16-20.pdf"
-        },
-        {
-            "Title": "Communication(s) from Public",
-            "DocDate": "06/16/2020",
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_PC_AB_06-16-2020.pdf"
         },
         {
             "Title": "Communication(s) from Public",
-            "DocDate": "06/15/2020",
-            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_b_06-15-20.pdf"
+            "DocDate": "06/16/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_06-16-20.pdf"
         },
         {
             "Title": "Communication(s) from Public",
@@ -355,6 +350,11 @@
             "Title": "Communication(s) from Public",
             "DocDate": "06/15/2020",
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631-S1_pc_1_06-15-20.pdf"
+        },
+        {
+            "Title": "Communication(s) from Public",
+            "DocDate": "06/15/2020",
+            "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_pc_b_06-15-20.pdf"
         },
         {
             "Title": "Communication(s) from Public",
@@ -582,156 +582,164 @@
             "DocUrl": "https://clkrep.lacity.org/onlinedocs/2020/20-0631_mot_05-20-2020.pdf"
         }
     ],
-    "votes": [
-        {
-            "MemberName": "BOBBLUMENFIELD",
-            "CD": "3",
-            "Vote": "YES"
+    "votes": {
+        "summary": {
+            "MeetingDate": "06/23/2020",
+            "MeetingType": "Regular",
+            "VoteAction": "Adopted",
+            "VoteGiven": "(13 - 0 - 2)"
         },
-        {
-            "MemberName": "MIKEBONIN",
-            "CD": "11",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOEBUSCAINO",
-            "CD": "15",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "GILBERT A.CEDILLO",
-            "CD": "1",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MARQUEECEHARRIS-DAWSON",
-            "CD": "8",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOSEHUIZAR",
-            "CD": "14",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "PAULKORETZ",
-            "CD": "5",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "PAULKREKORIAN",
-            "CD": "2",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOHNLEE",
-            "CD": "12",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "NURYMARTINEZ",
-            "CD": "6",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MITCHO'FARRELL",
-            "CD": "13",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "CURREN D.PRICE",
-            "CD": "9",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MONICARODRIGUEZ",
-            "CD": "7",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "DAVIDRYU",
-            "CD": "4",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "HERBWESSON",
-            "CD": "10",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "BOBBLUMENFIELD",
-            "CD": "3",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MIKEBONIN",
-            "CD": "11",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOEBUSCAINO",
-            "CD": "15",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "GILBERT A.CEDILLO",
-            "CD": "1",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MARQUEECEHARRIS-DAWSON",
-            "CD": "8",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOSEHUIZAR",
-            "CD": "14",
-            "Vote": "ABSENT"
-        },
-        {
-            "MemberName": "PAULKORETZ",
-            "CD": "5",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "PAULKREKORIAN",
-            "CD": "2",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "JOHNLEE",
-            "CD": "12",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "NURYMARTINEZ",
-            "CD": "6",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MITCHO'FARRELL",
-            "CD": "13",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "CURREN D.PRICE",
-            "CD": "9",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "MONICARODRIGUEZ",
-            "CD": "7",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "DAVIDRYU",
-            "CD": "4",
-            "Vote": "YES"
-        },
-        {
-            "MemberName": "HERBWESSON",
-            "CD": "10",
-            "Vote": "YES"
-        }
-    ]
+        "votes": [
+            {
+                "MemberName": "BOBBLUMENFIELD",
+                "CD": "3",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MIKEBONIN",
+                "CD": "11",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOEBUSCAINO",
+                "CD": "15",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "GILBERT A.CEDILLO",
+                "CD": "1",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MARQUEECEHARRIS-DAWSON",
+                "CD": "8",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOSEHUIZAR",
+                "CD": "14",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "PAULKORETZ",
+                "CD": "5",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "PAULKREKORIAN",
+                "CD": "2",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOHNLEE",
+                "CD": "12",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "NURYMARTINEZ",
+                "CD": "6",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MITCHO'FARRELL",
+                "CD": "13",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "CURREN D.PRICE",
+                "CD": "9",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MONICARODRIGUEZ",
+                "CD": "7",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "DAVIDRYU",
+                "CD": "4",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "HERBWESSON",
+                "CD": "10",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "BOBBLUMENFIELD",
+                "CD": "3",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MIKEBONIN",
+                "CD": "11",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOEBUSCAINO",
+                "CD": "15",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "GILBERT A.CEDILLO",
+                "CD": "1",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MARQUEECEHARRIS-DAWSON",
+                "CD": "8",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOSEHUIZAR",
+                "CD": "14",
+                "Vote": "ABSENT"
+            },
+            {
+                "MemberName": "PAULKORETZ",
+                "CD": "5",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "PAULKREKORIAN",
+                "CD": "2",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "JOHNLEE",
+                "CD": "12",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "NURYMARTINEZ",
+                "CD": "6",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MITCHO'FARRELL",
+                "CD": "13",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "CURREN D.PRICE",
+                "CD": "9",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "MONICARODRIGUEZ",
+                "CD": "7",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "DAVIDRYU",
+                "CD": "4",
+                "Vote": "YES"
+            },
+            {
+                "MemberName": "HERBWESSON",
+                "CD": "10",
+                "Vote": "YES"
+            }
+        ]
+    }
 }
